@@ -31,9 +31,9 @@ export default function ProjectPage() {
                             <Container fluid className="certificate-section" id="about">
                                 <Container>
                                     <Row>
-                                        <Col md={12} className="mt-5">
+                                        <Col ld={12} className="mt-5">
                                             <Row className='g-5'>
-                                                <Col md={4}>
+                                                <Col xs={12} className="col-sm-12 col-md-4">
                                                     <Fade bottom>
                                                         <div
                                                             key={1}
@@ -102,7 +102,7 @@ export default function ProjectPage() {
                                                         </div>
                                                     </Fade>
                                                 </Col>
-                                                <Col md={4}>
+                                                <Col xs={12} className="col-sm-12 col-md-4">
                                                     <Fade bottom>
                                                         <div
                                                             key={1}
@@ -171,7 +171,7 @@ export default function ProjectPage() {
                                                         </div>
                                                     </Fade>
                                                 </Col>
-                                                <Col md={4}>
+                                                <Col xs={12} className="col-sm-12 col-md-4">
                                                     <Fade bottom>
                                                         <div
                                                             key={1}
@@ -240,7 +240,7 @@ export default function ProjectPage() {
                                                         </div>
                                                     </Fade>
                                                 </Col>
-                                                <Col md={4}>
+                                                <Col xs={12} className="col-sm-12 col-md-4">
                                                     <Fade bottom>
                                                         <div
                                                             key={1}
@@ -309,7 +309,7 @@ export default function ProjectPage() {
                                                         </div>
                                                     </Fade>
                                                 </Col>
-                                                <Col md={4}>
+                                                <Col xs={12} className="col-sm-12 col-md-4">
                                                     <Fade bottom>
                                                         <div
                                                             key={1}
@@ -378,7 +378,7 @@ export default function ProjectPage() {
                                                         </div>
                                                     </Fade>
                                                 </Col>
-                                                <Col md={4}>
+                                                <Col xs={12} className="col-sm-12 col-md-4">
                                                     <Fade bottom>
                                                         <div
                                                             key={1}
@@ -447,7 +447,7 @@ export default function ProjectPage() {
                                                         </div>
                                                     </Fade>
                                                 </Col>
-                                                <Col md={4}>
+                                                <Col xs={12} className="col-sm-12 col-md-4">
                                                     <Fade bottom>
                                                         <div
                                                             key={1}
@@ -516,7 +516,7 @@ export default function ProjectPage() {
                                                         </div>
                                                     </Fade>
                                                 </Col>
-                                                <Col md={4}>
+                                                <Col xs={12} className="col-sm-12 col-md-4">
                                                     <Fade bottom>
                                                         <div
                                                             key={1}

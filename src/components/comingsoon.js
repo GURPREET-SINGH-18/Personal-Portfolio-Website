@@ -5,7 +5,7 @@ import { Container, Row, Col } from "react-bootstrap";
 export default function Commingsoon() {
     return (
         <section className="home-section">
-            <Container fluid id="home" >
+            <Container fluid id="resume" >
                 <Particle />
                 <Container className="home-content d-flex justify-content-center align-items-center comingsoonclass">
 
