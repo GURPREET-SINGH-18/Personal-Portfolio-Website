@@ -40,7 +40,7 @@ function Resume() {
                       </div>
                       <div className="resume d-flex justify-content-center">
                         <Document file={pdf}>
-                        <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.5} />
+                        <Page pageNumber={1} scale={width > 786 ? 1.6 : 0.4} />
                         </Document>
                       </div>
                       <div className="d-flex justify-content-center">

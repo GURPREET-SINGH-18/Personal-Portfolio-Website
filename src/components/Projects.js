@@ -44,7 +44,7 @@ export default function Projects() {
                                                 <img src={ec} alt={c} />
                                                 <div className='project--showcaseBtn'>
                                                     <a
-                                                        href={'www.google.com'}
+                                                        href={'https://github.com/GURPREET-SINGH-18/G-mart-E-commerce-website'}
                                                         target='_blank'
                                                         rel='noreferrer'
                                                         className={'iconBtn'}
@@ -57,7 +57,7 @@ export default function Projects() {
                                                         />
                                                     </a>
                                                     <a
-                                                        href={'code'}
+                                                        href={'https://github.com/GURPREET-SINGH-18/G-mart-E-commerce-website'}
                                                         target='_blank'
                                                         rel='noreferrer'
                                                         className={'iconBtn'}
@@ -79,7 +79,7 @@ export default function Projects() {
                                                     fontWeight:600
                                                 }}
                                             >
-                                                This website is a e-commerce platform like amazon or flipkart where user can buy any product here I have tried to add every feature I could here seller can also sell product and can add product.
+                                                This website is a e-commerce platform like amazon or flipKart where user can buy any product here I have tried to add every feature I could here seller can also sell product and can add product.
                                             </p>
                                             <div
                                                 className='project--lang'
@@ -112,7 +112,7 @@ export default function Projects() {
                                                 <img src={ba} alt={c} />
                                                 <div className='project--showcaseBtn'>
                                                     <a
-                                                        href={'www.google.com'}
+                                                        href={'https://github.com/GURPREET-SINGH-18/Library-book-management-system'}
                                                         target='_blank'
                                                         rel='noreferrer'
                                                         className={'iconBtn'}
@@ -125,7 +125,7 @@ export default function Projects() {
                                                         />
                                                     </a>
                                                     <a
-                                                        href={'code'}
+                                                        href={'https://github.com/GURPREET-SINGH-18/Library-book-management-system'}
                                                         target='_blank'
                                                         rel='noreferrer'
                                                         className={'iconBtn'}
@@ -147,7 +147,7 @@ export default function Projects() {
                                                     fontWeight:600
                                                 }}
                                             >
-                                                This website is a e-commerce platform like amazon or flipkart where user can buy any product here I have tried to add every feature I could here seller can also sell product and can add product.
+                                                This was my third project in Django. In this project I also performed all the CRUD operation with student information and book information. here we can also able to see which book is borrowed by which student and we can also update the status of borrowed book.
                                             </p>
                                             <div
                                                 className='project--lang'
@@ -180,7 +180,7 @@ export default function Projects() {
                                                 <img src={wa} alt={c} />
                                                 <div className='project--showcaseBtn'>
                                                     <a
-                                                        href={'www.google.com'}
+                                                        href={'https://gurpreet-singh-18.github.io/Weather_gyan_react/'}
                                                         target='_blank'
                                                         rel='noreferrer'
                                                         className={'iconBtn'}
@@ -193,7 +193,7 @@ export default function Projects() {
                                                         />
                                                     </a>
                                                     <a
-                                                        href={'code'}
+                                                        href={'https://github.com/GURPREET-SINGH-18/Weather_gyan_react'}
                                                         target='_blank'
                                                         rel='noreferrer'
                                                         className={'iconBtn'}
@@ -215,7 +215,7 @@ export default function Projects() {
                                                     fontWeight:600
                                                 }}
                                             >
-                                                This website is a e-commerce platform like amazon or flipkart where user can buy any product here I have tried to add every feature I could here seller can also sell product and can add product.
+                                                This website is a Weather App. Which help to see current and weather forecast monthly and hourly across the globe. This website is build in React JS.
                                             </p>
                                             <div
                                                 className='project--lang'
@@ -225,7 +225,7 @@ export default function Projects() {
                                                     fontWeight:600
                                                 }}
                                             >
-                                                Django, HTML, CSS, JS
+                                                ReactJS, HTML, CSS, JS
                                             </div>
                                         </div>
                                     </Fade>
@@ -248,7 +248,7 @@ export default function Projects() {
                                                 <img src={ci} alt={c} />
                                                 <div className='project--showcaseBtn'>
                                                     <a
-                                                        href={'www.google.com'}
+                                                        href={'https://github.com/GURPREET-SINGH-18/IPL-Team-Viewer'}
                                                         target='_blank'
                                                         rel='noreferrer'
                                                         className={'iconBtn'}
@@ -261,7 +261,7 @@ export default function Projects() {
                                                         />
                                                     </a>
                                                     <a
-                                                        href={'code'}
+                                                        href={'https://github.com/GURPREET-SINGH-18/IPL-Team-Viewer'}
                                                         target='_blank'
                                                         rel='noreferrer'
                                                         className={'iconBtn'}
@@ -283,7 +283,7 @@ export default function Projects() {
                                                     fontWeight:600
                                                 }}
                                             >
-                                                This website is a e-commerce platform like amazon or flipkart where user can buy any product here I have tried to add every feature I could here seller can also sell product and can add product.
+                                                This was my second project in Django. In this project I have implemented media settings and used Django forms with user authentication by login and Sign up.
                                             </p>
                                             <div
                                                 className='project--lang'

@@ -25,7 +25,7 @@ export default function Ranking() {
                     </Zoom>
                         </a>
                     </Col>
-                    <Col md={3}>
+                    {/* <Col md={3}>
                         <a
                             href="https://leetcode.com/gurpreet_singh_18/"
                             target="_blank"
@@ -60,7 +60,7 @@ export default function Ranking() {
                             <SiCodechef />
                             </Zoom>
                         </a>
-                    </Col>
+                    </Col> */}
                 </Row>
             </Container>
 

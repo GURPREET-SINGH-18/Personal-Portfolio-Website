@@ -29,9 +29,7 @@ function TechnicalJourney() {
                 icon={<ComputerIcon />}
             >
                 <h3 className="vertical-timeline-element-title">C PROGRAMMING LANGUAGE</h3>
-                <p>
-                    Studied here from Nursery to 10th class as a part of secondary schooling.
-                </p>
+                
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -42,9 +40,7 @@ function TechnicalJourney() {
                 icon={<ComputerIcon/>}
             >
                 <h3 className="vertical-timeline-element-title">C++ PROGRAMMING LANGUAGE</h3>
-                <p>
-                    Studied higher secondary schooling class 11th and 12th from CBSE Affiliated School.
-                </p>
+
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -55,9 +51,7 @@ function TechnicalJourney() {
                 icon={<DiPython />}
             >
                 <h3 className="vertical-timeline-element-title">PYTHON</h3>
-                <p>
-                    Currently pursuing Bachelor of Technology degree in Computer Science field from Acropolis Institute of Technology and Research, Indore 
-                </p>
+
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -68,9 +62,7 @@ function TechnicalJourney() {
                 icon={<DiHtml5 />}
             >
                 <h3 className="vertical-timeline-element-title">HTML & CSS</h3>
-                <p>
-                    Currently pursuing Bachelor of Technology degree in Computer Science field from Acropolis Institute of Technology and Research, Indore 
-                </p>
+
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -81,9 +73,7 @@ function TechnicalJourney() {
                 icon={<DiJavascript />}
             >
                 <h3 className="vertical-timeline-element-title">JAVASCRIPT</h3>
-                <p>
-                    Currently pursuing Bachelor of Technology degree in Computer Science field from Acropolis Institute of Technology and Research, Indore 
-                </p>
+
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -94,9 +84,7 @@ function TechnicalJourney() {
                 icon={<DiDjango />}
             >
                 <h3 className="vertical-timeline-element-title">DJANGO</h3>
-                <p>
-                    Currently pursuing Bachelor of Technology degree in Computer Science field from Acropolis Institute of Technology and Research, Indore 
-                </p>
+
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -107,9 +95,7 @@ function TechnicalJourney() {
                 icon={<DiDjango />}
             >
                 <h3 className="vertical-timeline-element-title">DJANGO REST FRAMEWORK</h3>
-                <p>
-                    Currently pursuing Bachelor of Technology degree in Computer Science field from Acropolis Institute of Technology and Research, Indore 
-                </p>
+
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -120,9 +106,7 @@ function TechnicalJourney() {
                 icon={<DiReact />}
             >
                 <h3 className="vertical-timeline-element-title">REACT</h3>
-                <p>
-                    Currently pursuing Bachelor of Technology degree in Computer Science field from Acropolis Institute of Technology and Research, Indore 
-                </p>
+
             </VerticalTimelineElement>
 
             <VerticalTimelineElement
