@@ -1,8 +1,8 @@
 import React from 'react'
 import Particle from '../../Particle'
-import { Container, Row, Col } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 
-export default function Commingsoon() {
+export default function ComingSoon() {
     return (
         <section className="home-section">
             <Container fluid id="resume" >

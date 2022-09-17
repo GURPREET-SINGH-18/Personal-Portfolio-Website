@@ -1,6 +1,6 @@
 import React from 'react'
 import Particle from '../../Particle'
-import { Container, Row, Col } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 
 export default function Notfound() {
     return (

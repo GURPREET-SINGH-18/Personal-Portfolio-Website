@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Particle from '../../Particle'
 import Typing from './Typing'
 import Tilt from "react-parallax-tilt";
-import AboutmeContainer from '../../components/aboutme/aboutmeContainer';
+import AboutmeContainer from '../../components/aboutme/AboutMeContainer';
 import Fade from 'react-reveal/Fade';
 import {
     AiFillGithub,
