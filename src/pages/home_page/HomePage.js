@@ -1,9 +1,9 @@
 import React from 'react'
 import { Container, Row, Col } from "react-bootstrap";
-import Particle from './Particle'
+import Particle from '../../Particle'
 import Typing from './Typing'
 import Tilt from "react-parallax-tilt";
-import Home2 from './Home2';
+import AboutmeContainer from '../../components/aboutme/aboutmeContainer';
 import Fade from 'react-reveal/Fade';
 import {
     AiFillGithub,
@@ -11,9 +11,9 @@ import {
     AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn,FaFacebookF,FaGoogle } from "react-icons/fa";
-import Certification from './Certification';
-import Projects from './Projects';
-import Contactus from './Contactus';
+import Certification from '../../components/certificate/Certification';
+import Projects from '../../components/projects/Projects';
+import Contactus from '../../components/contactus/Contactus';
 
 export default function Home() {
     return (
@@ -113,7 +113,7 @@ export default function Home() {
                     </Row>
                 </Container>
             </Container>
-            <Home2 />
+            <AboutmeContainer />
             <Certification/>
             <Projects/>
             <Contactus />

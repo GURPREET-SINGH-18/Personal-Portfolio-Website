@@ -10,9 +10,9 @@ import {
   AiOutlineUser,
 } from "react-icons/ai";
 import {FaBlog} from "react-icons/fa"
-import "../style.css";
+import "../../style.css";
 import { CgFileDocument } from "react-icons/cg";
-import Certificate from './Certificate';
+import Certificate from '../certificate/Certificate';
 
 export default function MyNav() {
   const [expand, updateExpanded] = useState(false);

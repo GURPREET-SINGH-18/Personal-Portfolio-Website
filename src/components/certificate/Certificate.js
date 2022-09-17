@@ -1,13 +1,13 @@
 import React from 'react'
 import { Container, Row, Col } from 'react-bootstrap';
-import python from '../images/python1.jpg'
-import html from '../images/html.png'
-import html1 from '../images/HTML1.jpg'
-import css from '../images/CSS.jpg'
-import js from '../images/Javascript.jpg'
-import c from '../images/c.png'
-import c1 from '../images/c++.png'
-import python2 from '../images/python2.png'
+import python from '../../images/python1.jpg'
+import html from '../../images/html.png'
+import html1 from '../../images/HTML1.jpg'
+import css from '../../images/CSS.jpg'
+import js from '../../images/Javascript.jpg'
+import c from '../../images/c.png'
+import c1 from '../../images/c++.png'
+import python2 from '../../images/python2.png'
 import Fade from 'react-reveal/Fade';
 
 

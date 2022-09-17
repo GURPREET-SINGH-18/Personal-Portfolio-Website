@@ -2,11 +2,11 @@ import React from 'react'
 import { Container, Row, Col } from "react-bootstrap";
 import Zoom from 'react-reveal/Zoom';
 import { Fade } from "react-reveal";
-import c from '../images/c.png'
-import ec from '../images/ecommerce.gif'
-import ba from '../images/book-animation.gif'
-import wa from '../images/weather-app-animation.gif'
-import ci from '../images/onboarding.gif'
+import c from '../../images/c.png'
+import ec from '../../images/ecommerce.gif'
+import ba from '../../images/book-animation.gif'
+import wa from '../../images/weather-app-animation.gif'
+import ci from '../../images/onboarding.gif'
 import { FaPlay, FaCode } from 'react-icons/fa';
 import { Link } from 'react-router-dom'
 import { HiArrowRight } from "react-icons/hi";

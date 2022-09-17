@@ -1,13 +1,13 @@
 import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
-import vs from '../images/Vs.png'
-import pc from '../images/pc.png'
-import git from '../images/git.png'
-import github from '../images/github.png'
-import cb from '../images/cb.png'
-import pg from '../images/pg.png'
-import pm from '../images/pm.png'
-import chrome from '../images/chorme.svg'
+import vs from '../../../images/Vs.png'
+import pc from '../../../images/pc.png'
+import git from '../../../images/git.png'
+import github from '../../../images/github.png'
+import cb from '../../../images/cb.png'
+import pg from '../../../images/pg.png'
+import pm from '../../../images/pm.png'
+import chrome from '../../../images/chorme.svg'
 import { Link } from 'react-router-dom';
 import Zoom from 'react-reveal/Zoom';
 

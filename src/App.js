@@ -4,34 +4,34 @@ import "./style.css";
 import "./App.css";
 import 'react-vertical-timeline-component/style.min.css';
 import "bootstrap/dist/css/bootstrap.min.css";
-import Preloader from './components/Preloader'
-import MyNav from './components/MyNav'
+import Preloader from './Preloader'
+import MyNav from './components/navbar/MyNav'
 import { BrowserRouter as Router } from "react-router-dom";
-import Home from "./components/Home"
-import Resume from "./components/Resume"
-import ProjectPage from "./components/ProjectPage"
-import { Link,Route,Routes } from 'react-router-dom';
-import Footer from './components/Footer';
-import About from './components/About';
-import Ranking from './components/Ranking';
-import EducationJourney from './components/EducationJourney';
-import CertificatePage from './components/CertificatePage';
-import PersonalSkill from './components/PersonalSkill'
-import TechnicalSkill from './components/TechnicalSkill'
-import Commingsoon from './components/comingsoon'
-import Notfound from './components/notfound'
-import TechnicalJourney from './components/TechnicalJourney'
-import ProjectJourney from './components/ProjectJourney'
-import SocialMedia from './components/SocialMedia'
-import Zoom from 'react-reveal/Zoom';
-import Toolkit from './components/Toolkit';
+import Home from "./pages/home_page/HomePage"
+import Resume from "./pages/resume_page/ResumePage"
+import ProjectPage from "./pages/project_page/ProjectPage"
+import { Route,Routes } from 'react-router-dom';
+import Footer from './components/footer/Footer';
+import About from './components/aboutme/about/About';
+import Ranking from './components/aboutme/ranking/Ranking';
+import EducationJourney from './components/aboutme/journey/EducationJourney';
+import CertificatePage from './pages/certificate_page/CertificatePage';
+import PersonalSkill from './components/aboutme/skills/PersonalSkill'
+import TechnicalSkill from './components/aboutme/skills/TechnicalSkill'
+import Commingsoon from './pages/comingsoon_page/comingsoon'
+import Notfound from './pages/blogs_page/notfound'
+import TechnicalJourney from './components/aboutme/journey/TechnicalJourney'
+import ProjectJourney from './components/aboutme/journey/ProjectJourney'
+import SocialMedia from './components/aboutme/social_media/SocialMedia'
+// import Zoom from 'react-reveal/Zoom';
+import Toolkit from './components/aboutme/skills/Toolkit';
 
 function App() {
-  const [load, upadateLoad] = useState(true);
+  const [load, updateLoad] = useState(true);
   
   useEffect(() => {
     const timer = setTimeout(() => {
-      upadateLoad(false);
+      updateLoad(false);
     }, 4000);
     
     return () => clearTimeout(timer);

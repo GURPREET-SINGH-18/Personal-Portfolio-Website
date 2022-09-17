@@ -1,10 +1,10 @@
 import React from 'react'
-import Particle from './Particle'
+import Particle from '../../Particle'
 import { Container, Row, Col } from "react-bootstrap";
 import Zoom from 'react-reveal/Zoom';
 import { Fade } from "react-reveal";
-import ucsc from '../images/ucsc.png'
-import ufm from '../images/ufm.png'
+import ucsc from '../../images/ucsc.png'
+import ufm from '../../images/ufm.png'
 import axios from 'axios';
 import {useState, useEffect} from 'react'
 import Loader from "react-js-loader";

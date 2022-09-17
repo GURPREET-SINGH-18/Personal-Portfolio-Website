@@ -4,7 +4,7 @@ import { Link,Outlet } from 'react-router-dom';
 import Zoom from 'react-reveal/Zoom';
 
 
-export default function Home2() {
+export default function AboutmeContainer() {
     return (
         <Container fluid className="home-about-section" id="about">
             <Container>
